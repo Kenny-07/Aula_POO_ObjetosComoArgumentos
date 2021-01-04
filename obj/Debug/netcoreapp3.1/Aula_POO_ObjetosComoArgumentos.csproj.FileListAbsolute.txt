@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.exe
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.dll
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.dll
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula_POO_ObjetosComoArgumentos.genruntimeconfig.cache
